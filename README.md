@@ -9,5 +9,7 @@
                     Copy the clipboard content to the specified file.
 ## Requirements
 Clipboard module.
+
 Install with:
+
 	pip install clipboard
